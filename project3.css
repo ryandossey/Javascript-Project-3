@@ -1,0 +1,89 @@
+/* the CSS I used if helpful as a starter */
+section {
+    padding: 0.5rem 0;
+}
+
+fieldset {
+    padding: 2rem;
+    margin-top: -1rem;
+}
+
+legend {
+    width: inherit;
+    padding: 0 1rem;
+}
+
+#registrations {
+    background-color: azure;
+    padding: 2rem;
+}
+
+tr {
+    padding: 0.25rem 0;
+}
+
+td {
+    padding: 0.25rem 1rem;
+}
+
+.user-information-box {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin-bottom: 0.5rem; /* Adjust the value as needed */
+
+}
+
+.academic-information-box {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.options-box {
+    border: 1px solid #ccc;
+    padding: 3rem;
+    margin-bottom: 1rem;
+}
+
+#fullName {
+    font-size: small;
+}
+
+#fullNames {
+    font-size: large;
+}
+
+#label {
+    font-size: 25px;
+}
+
+#label2 {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#fullNameHelp {
+    font-size: 15px;
+}
+
+.options-left {
+    float: left;
+    margin-right: 3rem; /* Adjust as needed */
+    margin-top: -10rem;
+    margin-left: 50px;
+}
+
+.options-right {
+    margin-top: -170px;
+    float: right;
+    margin-right: 30px;
+}
+
+tr {
+    padding-right: 20px; /* Adjust the value as needed */
+}
+
+th {
+    padding-right: 20px; 
+    padding-top: 20px;
+}
